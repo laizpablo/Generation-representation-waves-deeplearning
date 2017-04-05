@@ -1,5 +1,5 @@
 # NeuralNetwork
-###Xarxes Neuronals per a la generació i representació d'ones
+### Xarxes Neuronals per a la generació i representació d'ones
 
 Treball final de grau
 
